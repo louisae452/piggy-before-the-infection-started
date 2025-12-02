@@ -65,7 +65,7 @@ With this in mind, it was decided that the scope of this project will be on prov
 - [ ] Create a responsive framework that will adapt to all screen sizes.
 - [ ] Create an intuitive navigation tool.
 - [ ] Make sure the home page can be accessed from any page on the website.
-- [ ]Make sure all links open on a new page so that it is easy to return to the website.
+- [ ] Make sure all links open on a new page so that it is easy to return to the website.
 
 ### User Story 4: As a fan, I want to be able to easily find my favourite episode. (Must have)
 
