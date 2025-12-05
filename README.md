@@ -160,6 +160,24 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 [Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
 
+## Typography and colour scheme.
+
+The bangers type was chosen for the titles, while risque will be used for the main text.
+
+The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast.
+
+![Piggy before the infection started Wikipedia](/assets/images/readme-images/wiki-page.png)
+![SuperJakeJoseCat logo ](/assets/images/readme-images/SJJS.png) |
+Image two: You tube/
+
+The colour palette chosen was:
+Image three: colour palette.
+
+This is what the page will look like (measurements not to scale)
+
+Image four: colour scheme.
+
+
 
 
 
