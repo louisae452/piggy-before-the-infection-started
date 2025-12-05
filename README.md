@@ -163,5 +163,14 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 
 
+## Credits.
+
+Readme file:
+
+[Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links)
+
+
+
+
 
 
