@@ -127,5 +127,41 @@ With this in mind, it was decided that the scope of this project will be on prov
 
 #### Tasks.
 
+## Design.
+
+The web page will consist of three pages. They will all be responsive to large, medium and small screen sizes.
+
+All the pages will contain a navigation bar which link to each of the pages and a footer with links to the series social media.
+
+### The home page.
+
+The home page will contain a brief introduction to the series, a section in which users can find out more about the series by going on to its Wikijpedia pages or play the associated Roblox game, a section to show the award nominations the series has received, a news section, and a section to go to the gallery or send a message to the creator.
+
+[Wireframe for the large screen version of the home page.](assets/images/readme-images/home-wire-large.png)
+
+[Wireframe for the medium and small screen versions of the home page.](assets/images/readme-images/home-wire-small.png)
+
+
+### The gallery.
+
+The gallery will contain the links to all the episodes in the series. It will have three sections, one for each season. Each of the sections will have links to the other two sections, a subsection in which a synopsis of the season will be given, as well as a gallery of auto rotating images. The other subsection will contain a the thumbnail for each episode as well as a link to watch it.
+
+The page will finish with a link to send a message to SuperJakeJoseCat.
+
+[Wireframe for the large screen version of the gallery.](assets/images/readme-images/gallery-wire-large.png)
+
+[Wireframe for the medium and small screen versions of the gallery.](assets/images/readme-images/gallery-wire-small.png)
+
+### The ‘Talk to the creator’ page.
+
+The talk to the creator page will contain a form to enter name, e-mail address and message area as well as a submit button. It will also have a link to the gallery.
+
+[Wireframe for the large screen version of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-large.png)
+
+[Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
+
+
+
+
 
 
