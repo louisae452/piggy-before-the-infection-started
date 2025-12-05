@@ -197,6 +197,19 @@ Readme file:
 
 [Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links)
 
+To find the correct purple colour (From wikipedia image):
+
+[Image color picker](https://imagecolorpicker.com/)
+
+To choose colours for the colour palette:
+
+[Canva](https://www.canva.com/colors/color-wheel/)
+
+To choose fonts:
+
+[Google fonts](https://fonts.google.com/)
+
+
 
 
 
