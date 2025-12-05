@@ -166,8 +166,8 @@ The bangers type was chosen for the titles, while risque will be used for the ma
 
 The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast.
 
-![Piggy before the infection started Wikipedia](/assets/images/readme-images/wiki-page.png)
-![SuperJakeJoseCat logo ](/assets/images/readme-images/SJJS.png) |
+![Piggy before the infection started Wikipedia|1902x1125,10%](/assets/images/readme-images/wiki-page.png)
+![SuperJakeJoseCat logo ](/assets/images/readme-images/SJJS.png)
 Image two: You tube/
 
 The colour palette chosen was:
