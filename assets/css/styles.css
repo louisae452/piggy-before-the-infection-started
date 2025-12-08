@@ -1,11 +1,29 @@
-/* Bangers and Risque fonts (Google fonts)
+/* Bangers and Risque fonts (Google fonts)*/
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Risque&display=swap');
+/*
+.risque-regular {
+  font-family: "Risque", serif;
+  font-weight: 400;
+  font-style: normal;
+}*/
+/*
+.bangers-regular {
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
 
 
 
-
-
+/* global styles*/
 body {
     background-color: aqua;
     color: red;
+}
+h1 {
+    font-family: "Bangers", system-ui;
+}
+p {
+    font-family: "Risque", serif;
 }
