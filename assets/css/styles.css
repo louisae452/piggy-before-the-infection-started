@@ -36,11 +36,13 @@
     color: var(--primary-text-color);
     padding: 10px;
 }*/
-
+body {
+  background-color: var(--page-margin-color);
+}
 .outer-container {
   background-color: var(--page-margin-color);
   padding: 10px;
-  color: var(--primary-text-color);
+  color: var(--button-text-color);
 }
 .inner-container {
   margin: 20px;
@@ -48,6 +50,8 @@
   border-radius:10px;
   background-color: var(--primary-filler-color);
   padding: 5px;
+  color: var(--primary-text-color);
+  
 }
 h1 {
     font-family: var(--primary-font);
@@ -74,3 +78,4 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
+/*Footer styling*/
