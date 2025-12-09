@@ -28,13 +28,26 @@
 
 
 /* global styles*/
-main {
+/*main {
     
     border: 20px solid var(--page-margin-color);
     
     background-color: var(--primary-filler-color);
     color: var(--primary-text-color);
     padding: 10px;
+}*/
+
+.outer-container {
+  background-color: var(--page-margin-color);
+  padding: 10px;
+  color: var(--primary-text-color);
+}
+.inner-container {
+  margin: 20px;
+  border: 2px solid var(--page-margin-color);
+  border-radius:10px;
+  background-color: var(--primary-filler-color);
+  padding: 5px;
 }
 h1 {
     font-family: var(--primary-font);
