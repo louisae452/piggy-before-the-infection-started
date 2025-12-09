@@ -28,13 +28,32 @@
 
 
 /* global styles*/
-body {
+main {
+    
+    border: 20px solid var(--page-margin-color);
     background-color: var(--primary-filler-color);
     color: var(--primary-text-color);
+    padding: 10px;
 }
 h1 {
     font-family: var(--primary-font);
 }
 p {
     font-family: var(--secondary-font);
+}
+
+/*Nabar styling*/
+nav{
+  padding: 0% !important;
+}
+.margin {
+  background-color: var(--page-margin-color);
+  color: var(--button-text-color);
+  padding-left: 20px;
+  padding-right: 20px;
+ 
+}
+
+li a {
+  color:var(--button-text-color)!important;
 }
