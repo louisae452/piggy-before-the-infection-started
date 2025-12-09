@@ -31,6 +31,7 @@
 main {
     
     border: 20px solid var(--page-margin-color);
+    
     background-color: var(--primary-filler-color);
     color: var(--primary-text-color);
     padding: 10px;
@@ -56,4 +57,7 @@ nav{
 
 li a {
   color:var(--button-text-color)!important;
+}
+.nav-link.active {
+    text-decoration: underline;
 }
