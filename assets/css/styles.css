@@ -37,7 +37,7 @@
     padding: 10px;
 }*/
 
-.outer-container {
+main {
   background-color: var(--page-margin-color);
   padding: 10px;
   color: var(--primary-text-color);

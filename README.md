@@ -209,6 +209,11 @@ To choose fonts:
 
 [Google fonts](https://fonts.google.com/)
 
+To make logo:
+
+[Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB)
+
+
 
 
 
