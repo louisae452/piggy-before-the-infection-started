@@ -60,7 +60,7 @@ header {
   color: var(--primary-text-color);
   
 }
-h1 {
+h1, h2 {
     font-family: var(--primary-font);
 }
 p {
