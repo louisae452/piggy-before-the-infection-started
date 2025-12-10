@@ -39,6 +39,13 @@
 body {
   background-color: var(--page-margin-color);
 }
+header {
+  background: url(../images/poster.webp) no-repeat center center/cover;
+  height: 200px;
+
+}
+
+
 .outer-container {
   background-color: var(--page-margin-color);
   padding: 10px;
