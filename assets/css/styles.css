@@ -96,4 +96,11 @@ li a {
 /*Footer styling*/
 
 
+/*Media queries*/
+/*
+@media screen and (max-width: 576px) {
 
+  .gallery {
+    display: none !important;
+  }
+}*/
