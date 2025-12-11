@@ -85,4 +85,15 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
+/* Horizontal scroll for small screens*/
+.card-body {
+    /*min-height: 300px;*/
+    min-width: 300px;
+   /*margin-right: 5px;*/
+}
+ 
+
 /*Footer styling*/
+
+
+
