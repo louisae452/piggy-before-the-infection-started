@@ -88,10 +88,9 @@ li a {
 /* Horizontal scroll for small screens*/
 .card-body {
     /*min-height: 300px;*/
-    min-width: 300px;
+    min-width: 200px;
    /*margin-right: 5px;*/
 }
- 
 
 /*Footer styling*/
 
