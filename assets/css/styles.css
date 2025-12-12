@@ -95,7 +95,7 @@ li a {
     background-color: var(--primary-filler-color);
     color: var(--primary-text-color);
     row-gap: 0px;
-    /*border: none; To add later*/
+    border: none; 
    /*margin-right: 5px;*/
 }
 .card-text {
