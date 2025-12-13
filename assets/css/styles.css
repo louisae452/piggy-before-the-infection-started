@@ -85,6 +85,13 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
+
+/*Carousel styling*/
+.carousel {
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;   
+}
+
 /* Horizontal scroll for small screens Gallery cards*/
 .card-episode {
       min-width: 150px;
