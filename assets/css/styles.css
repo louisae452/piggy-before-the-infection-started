@@ -85,7 +85,7 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
-/*Season buttons stayling*/
+/*Season buttons styling*/
 .season-buttons li {
   display: inline-block;
   list-style-type: none;
@@ -117,6 +117,16 @@ li a {
 }
 .card-image-top {
   height: 65px;
+}
+/*Form styling"*/
+.inner-container {
+  padding: 70px;
+}
+input {
+  width: 70%;
+}
+textarea {
+  width: 100%;
 }
 
 /*Footer styling*/
