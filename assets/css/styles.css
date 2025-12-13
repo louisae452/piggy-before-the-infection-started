@@ -85,18 +85,17 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
+/*Season buttons stayling*/
+.season-buttons li a {
+  color: var(--primary-text-color)!important;
+}
 
 /*Carousel styling*/
 .carousel {
     border-radius: 10px 10px 10px 10px;
-    overflow: hidden;   
+        overflow: hidden;   
 }
-
 /* Horizontal scroll for small screens Gallery cards*/
-.card-episode {
-      min-width: 150px;
-   /*margin-right: 5px;*/
-}
 .card-body {
     min-width: 150px;
     background-color: var(--primary-filler-color);
