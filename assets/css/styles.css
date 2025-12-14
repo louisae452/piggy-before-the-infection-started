@@ -70,7 +70,7 @@ a {
   color: var(--primary-text-color);
 }
 
-/*Nabar styling*/
+/*Navbar styling*/
 nav{
   padding: 0% !important;
 }
@@ -97,6 +97,7 @@ li a {
 .season-buttons li a {
   color: var(--primary-text-color)!important;
 }
+/*News*/
 
 /*Carousel styling*/
 .carousel {
