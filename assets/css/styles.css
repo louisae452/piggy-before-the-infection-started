@@ -101,6 +101,7 @@ li a {
 .season-buttons li a {
   color: var(--primary-text-color)!important;
 }
+
 /*News*/
 
 /*Carousel styling*/
@@ -115,7 +116,6 @@ li a {
     color: var(--primary-text-color);
     row-gap: 0px;
     border: none; 
-   /*margin-right: 5px;*/
 }
 .card-text {
   margin-bottom: 0px;
@@ -125,6 +125,9 @@ li a {
 }
 .card-image-top {
   height: 65px;
+}
+.gallery_small, .first-card{
+  padding-left: 0px !important;
 }
 /*Form styling"*/
 .inner-container {
