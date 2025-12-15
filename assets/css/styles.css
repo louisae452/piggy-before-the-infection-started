@@ -73,6 +73,10 @@ i {
   color: var(--button-text-color);
   font-size: 1.5rem;
 }
+.btn {
+  background-color: var(--button-color);
+  color: var(--button-text-color);
+}
 
 /*Navbar styling*/
 nav{
