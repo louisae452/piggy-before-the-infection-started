@@ -63,6 +63,14 @@ header {
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--primary-font);
 }
+h1 {
+  margin-bottom: 40px;
+  }
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 p, a {
     font-family: var(--secondary-font);
 }
@@ -76,6 +84,7 @@ i {
 .btn {
   background-color: var(--button-color);
   color: var(--button-text-color);
+  margin-top: 30px;
 }
 
 /*Navbar styling*/
