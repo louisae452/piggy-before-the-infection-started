@@ -115,13 +115,19 @@ li a {
   color: var(--primary-text-color)!important;
 }
 
-/*News*/
+
+
 
 /*Carousel styling*/
 .carousel {
     border-radius: 10px 10px 10px 10px;
         overflow: hidden;   
 }
+/*News*/
+#parasee-carousel {
+  border-radius: 10px 10px 0px 0px;
+}
+
 /* Horizontal scroll for small screens Gallery cards*/
 .card-body {
     min-width: 150px;
