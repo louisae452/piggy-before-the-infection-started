@@ -148,6 +148,10 @@ textarea {
 .success-image {
   border-radius: 50px;
   overflow: hidden;
+  
+}
+.success h2, .success p, .success .btn {
+  margin-bottom: 40px;
 }
 
 
