@@ -69,6 +69,10 @@ p, a {
 a {
   color: var(--primary-text-color);
 }
+i {
+  color: var(--button-text-color);
+  font-size: 1.5rem;
+}
 
 /*Navbar styling*/
 nav{
@@ -141,6 +145,14 @@ textarea {
 
 
 /*Footer styling*/
+#follow-piggy div {
+  display: inline-block;
+}
+li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px;
+}
 
 
 /*Media queries*/
