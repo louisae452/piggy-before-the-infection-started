@@ -81,15 +81,15 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 [Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
 
-### Changes to the design.
+## Changes to the design.
 
-## Home page for medium screens.
+### Home page for medium screens.
 
 The original layout for the description of the series was the similar as that for small screens. It was found that the layout adopted for larger screes was more adequate.
 
 INSERT NEW WIREFRAME
 
-## Gallery page.
+### Gallery page.
 
 For larger and medium screens, it was decided that six episodes per line, instead of the original four (for larger screens) and two(for medium screens) was more suitable.
 
@@ -101,8 +101,7 @@ INSERT NEW WIREFRAME
 
 All the pages got the addition of two bottoms at the end of the page to navigate to the other two pages easily.
 
-## Success page.
-
+### Success page.
 A  success page was created to be shown on successful submission of the form.
 
 INSERT WIREFRAME.
