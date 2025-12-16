@@ -119,6 +119,7 @@ li a {
 
 
 /*Carousel styling*/
+/*Credit: code for getting round edgeds on the carousel: (https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)*/
 .carousel {
     border-radius: 10px 10px 10px 10px;
         overflow: hidden;   

@@ -25,107 +25,28 @@ With this in mind, it was decided that the scope of this project will be on prov
 - To be able to easily navigate to a specific episode.
 - To have a platform where they can follow the latest developments in the series.
 - To be able to get their opinions and questions to SuperJakeJoseCat.
+- To be able to contact SuperJakeJoseCat about his interest in collaborating in their projects.
 
 ## User stories.
 
-### User Story 1: As the animator, I want a platform which shows all that the series can offer. (Must have)
+- As the animator, 
 
-#### Acceptance criteria.
+    - I want a platform which shows all that the series can offer. 
+    - I want to be able to showcase my series so that prospective clients can see my work before they give me a commission. 
 
-- The website will have a home page with general information about the series, a link to the wikipedia and a place for upcoming news.
-- The website will have a gallery in which all the episodes are arranged by seasons. It will be possible to click on an episode and watch it.
-- The website will also have a contact me page so that fans can send messages to the animator.
-- The website must be fully responsive across different screen sizes.
+- As a new user, 
 
-#### Tasks.
+    - I want clear information about the series.
 
-- [ ] Create a home page.
-- [ ] Create a gallery page .
-- [ ] Create a contact me page.
-- [ ] Create a responsive framework that will adapt to all screen sizes.
+- As a fan, 
 
-### User Story 2: As the animator, I want to be able to showcase my series so that prospective clients can see my work before they give me a commission. (Must have) 
+    - I want to be able to easily find my favourite episode.
+    - I want to be able to get all the news as quick as possible so I don’t miss any upcoming events/ premieres.
+    - I want to be able to send messages to SuperJakeJoseCat.
 
-#### Acceptance criteria.
-
-- The website must have the episodes divided into seasons.
-- Each season must have a gallery of high quality images and a description.
-
-
-#### Tasks.
-
-- [ ] Add a seasons section to the gallery. this must include a gallery of high quality pictures as well as a sypnosis of the season.
-
-### User Story 3: As a new user, I want clear information about the series. (Must have)
-
-#### Acceptance criteria.
-
-- The content on the website must be clear and easy to navigate.
-
-#### Tasks.
-
-- [ ] Create an intuitive navigation tool.
-- [ ] Make sure the home page can be accessed from any page on the website.
-- [ ] Make sure all links open on a new page so that it is easy to return to the website.
-
-### User Story 4: As a fan, I want to be able to easily find my favourite episode. (Must have)
-
-#### Acceptance criteria.
-
-- Each season section must contain  a catalogue of the episodes in it. This will provide a link to the episode so I can watch it directly.
-
-#### Tasks.
-
-- [ ] Create a list of episodes for each season.
-- [ ] Add a high quality picture (could be original thumbnail) for each episode.
-- [ ] Include the title of the episode.
-- [ ] Link each picture to the episode.
-- [ ] Ensure that the link opens in a new window.
-
-### User Story 5: As a prospective client, I would like a form to contact SuperJakeJoseCat where I can ask all the information I need. (Must have) 
-
-#### Acceptance criteria.
-
-- The webpage should have a Talk about your project section where a prospective client can explain their needs and get a response form SuperJakeJoseCat
-
-#### Tasks.
-
-- [ ] Create a form with contact details and text area for explanation of what would be needed.
-
-### User Story 6: As a fan, I want to be able to get all the news as quick as possible so I don’t miss any upcoming events/ premieres. (Should have)
-
-#### Acceptance criteria.
-
-- The home page will have a section with upcoming news.
-
-#### Tasks.
-
-- [ ] Create a news/coming soon section within the home page.
-
-### User Story 7: As a fan, I want to be able to send messages to SuperJakeJoseCat.(Should have) 
-
-#### Acceptance criteria.
-
-- There must be a section in which fans can send a message to SuperJakeJoseCat.
-
-#### Tasks.
-
-- [ ] Create a Have your say (Talk to SuperJakeJoseCat , Tell us what you think) page.
-- [ ] Include a text area for comments and a way to contact the respondent back and questions about their preferences?.
-
-
-
-### User Story 8:  
-
-#### Acceptance criteria.
-
-#### Tasks.
-
-### User Story  
-
-#### Acceptance criteria.
-
-#### Tasks.
+- As a prospective client, 
+    - I want to be able to see SuperJakeJoseCat animations in an easy and organised way.
+    - I would like a form to contact SuperJakeJoseCat where I can ask all the information I need.
 
 ## Design.
 
@@ -160,11 +81,38 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 [Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
 
+### Changes to the design.
+
+## Home page for medium screens.
+
+The original layout for the description of the series was the similar as that for small screens. It was found that the layout adopted for larger screes was more adequate.
+
+INSERT NEW WIREFRAME
+
+## Gallery page.
+
+For larger and medium screens, it was decided that six episodes per line, instead of the original four (for larger screens) and two(for medium screens) was more suitable.
+
+For smaller screens, it was found that a vertical approach would make the page far too long and create user frustration. Instead, a horizontal scroll bar for the episodes in each season was adopted.
+
+In addition, it was decided that buttons to navigate to each of the seasons in the page would look too chunky, so they were transformed into more discreate links at the top and bottom of each of the season sections.
+
+INSERT NEW WIREFRAME
+
+All the pages got the addition of two bottoms at the end of the page to navigate to the other two pages easily.
+
+## Success page.
+
+A  success page was created to be shown on successful submission of the form.
+
+INSERT WIREFRAME.
+
+
 ## Typography and colour scheme.
 
 The bangers type was chosen for the titles, while risque will be used for the main text.
 
-The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast.
+The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast while being gentle in the eye for users with light sensitivity.
 
 ![Piggy before the infection started Wikipedia|1902x1125,10%](/assets/images/readme-images/wiki-page.png)
 Capture of Piggy before the infection started Wikipedia.
@@ -192,6 +140,7 @@ This is what the page will look like (measurements not to scale)
 
 
 ## Credits.
+[w3schools](https://www.w3schools.com/)
 
 Readme file:
 
@@ -213,9 +162,18 @@ To make logo:
 
 [Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB)
 
+To make favicon: [favicon.io](https://favicon.io/)
+Icons: [Font Awesome](https://fontawesome.com/)
+
+Bootstrap horizontal scroll cards [codeply](https://www.codeply.com/go/PF4APyGj7F)
 
 To get round edges on the images of the carousel:
 [stack overflow](https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)
+
+To manipulate pictures:
+Microsoft photos.
+To convert pictures:[Towebp](https://towebp.io/)
+
 
 
 
