@@ -191,20 +191,20 @@ li {
 
 /*Media queries*/
 @media screen and (min-width: 992px) {
-  /*Home page styling*/
-  #series-description {
+  /*Descriptionsstyling*/
+  .description {
     font-size: 1.25rem;
   }  
 }
 @media screen and (min-width: 1200px) {
-  /*Home page styling*/
-  #series-description {
+  /*Descriptions styling*/
+  .description {
     font-size: 1.5rem;
   }  
 }
 @media screen and (min-width: 1400px) {
-  /*Home page styling*/
-  #series-description {
+  /*Descriptions styling*/
+  #series-description, .description {
     font-size: 1.7rem;
   }  
 }
