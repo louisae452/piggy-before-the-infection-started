@@ -108,6 +108,15 @@ li a {
 .nav-link.active {
     text-decoration: underline;
 }
+
+/*News*/
+#parasee-carousel {
+  border-radius: 10px 10px 0px 0px;
+}
+.card {
+  border: none;
+}
+
 /*Season buttons styling*/
 .season-buttons li {
   display: inline-block;
@@ -127,10 +136,7 @@ li a {
     border-radius: 10px 10px 10px 10px;
         overflow: hidden;   
 }
-/*News*/
-#parasee-carousel {
-  border-radius: 10px 10px 0px 0px;
-}
+
 
 /* Horizontal scroll for small screens Gallery cards*/
 .card-body {
@@ -184,10 +190,21 @@ li {
 
 
 /*Media queries*/
-/*
-@media screen and (max-width: 576px) {
-
-  .gallery {
-    display: none !important;
-  }
-}*/
+@media screen and (min-width: 992px) {
+  /*Home page styling*/
+  #series-description {
+    font-size: 1.25rem;
+  }  
+}
+@media screen and (min-width: 1200px) {
+  /*Home page styling*/
+  #series-description {
+    font-size: 1.5rem;
+  }  
+}
+@media screen and (min-width: 1400px) {
+  /*Home page styling*/
+  #series-description {
+    font-size: 1.7rem;
+  }  
+}
