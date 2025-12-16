@@ -83,9 +83,11 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 ## Changes to the design.
 
-### Home page for medium screens.
+### Home page.
 
-The original layout for the description of the series was the similar as that for small screens. It was found that the layout adopted for larger screes was more adequate.
+The original layout for medium screens for the description of the series was the similar as that for small screens. It was found that the layout adopted for larger screens was more adequate.
+
+The order of the elements in the series description section were swapped around to make it more appealing in small screens (so that the series carousel did not appear directtly on top of the news pictures.)
 
 INSERT NEW WIREFRAME
 
@@ -95,11 +97,13 @@ For larger and medium screens, it was decided that six episodes per line, instea
 
 For smaller screens, it was found that a vertical approach would make the page far too long and create user frustration. Instead, a horizontal scroll bar for the episodes in each season was adopted.
 
+The order of the elements inside the season description section were also swapped.
+
 In addition, it was decided that buttons to navigate to each of the seasons in the page would look too chunky, so they were transformed into more discreate links at the top and bottom of each of the season sections.
 
 INSERT NEW WIREFRAME
 
-All the pages got the addition of two bottoms at the end of the page to navigate to the other two pages easily.
+All the pages got the addition of two buttoms at the end of the page to navigate to the other two pages easily.
 
 ### Success page.
 A  success page was created to be shown on successful submission of the form.
@@ -141,36 +145,24 @@ This is what the page will look like (measurements not to scale)
 ## Credits.
 [w3schools](https://www.w3schools.com/)
 
-Readme file:
+Readme file: [Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links)
 
-[Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links)
+To find the correct purple colour (From wikipedia image): [Image color picker](https://imagecolorpicker.com/)
 
-To find the correct purple colour (From wikipedia image):
+To choose colours for the colour palette: [Canva](https://www.canva.com/colors/color-wheel/)
 
-[Image color picker](https://imagecolorpicker.com/)
+To choose fonts: [Google fonts](https://fonts.google.com/)
 
-To choose colours for the colour palette:
-
-[Canva](https://www.canva.com/colors/color-wheel/)
-
-To choose fonts:
-
-[Google fonts](https://fonts.google.com/)
-
-To make logo:
-
-[Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB)
+To make logo: [Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB)
 
 To make favicon: [favicon.io](https://favicon.io/)
 Icons: [Font Awesome](https://fontawesome.com/)
 
 Bootstrap horizontal scroll cards [codeply](https://www.codeply.com/go/PF4APyGj7F)
 
-To get round edges on the images of the carousel:
-[stack overflow](https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)
+To get round edges on the images of the carousel: [stack overflow](https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)
 
-To manipulate pictures:
-Microsoft photos.
+To manipulate pictures: Microsoft photos.
 To convert pictures:[Towebp](https://towebp.io/)
 
 
