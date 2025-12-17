@@ -101,7 +101,7 @@ nav button {
   color: var(--button-text-color);
 }
 
-li a {
+li a, .navbar-brand {
   color:var(--button-text-color)!important;
 }
 .nav-link.active {
