@@ -56,7 +56,6 @@ header {
   border: 2px solid var(--page-margin-color);
   border-radius:10px;
   background-color: var(--primary-filler-color);
-  padding: 5px;
   color: var(--primary-text-color);
   
 }
@@ -127,18 +126,15 @@ li a {
   color: var(--primary-text-color)!important;
 }
 
-
-
-
 /*Carousel styling*/
-/*Credit: code for getting round edgeds on the carousel: (https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)*/
+/*Credit: code for getting round edges on the carousel: (https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)*/
 .carousel {
     border-radius: 10px 10px 10px 10px;
         overflow: hidden;   
 }
 
 
-/* Horizontal scroll for small screens Gallery cards*/
+/*Cards styling*/
 .card-body {
     min-width: 150px;
     background-color: var(--primary-filler-color);
@@ -157,6 +153,10 @@ li a {
 }
 .gallery_small, .first-card{
   padding-left: 0px !important;
+}
+/*Season 2 background*/
+.light-background, .light-background .card-body {
+  background-color: var(--secondary-filler-color);
 }
 /*Form styling"*/
 
