@@ -1,5 +1,6 @@
 /* Bangers and Risque fonts (Google fonts)*/
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Risque&display=swap');
+
 /* Risque class
 .risque-regular {
   font-family: "Risque", serif;
@@ -39,6 +40,7 @@
 body {
   background-color: var(--page-margin-color);
 }
+
 header {
   background: url(../images/poster.webp) no-repeat center center/cover;
   height: 200px;
@@ -51,35 +53,48 @@ header {
   padding: 10px;
   color: var(--button-text-color);
 }
+
 .inner-container {
   margin: 20px;
   border: 2px solid var(--page-margin-color);
-  border-radius:10px;
+  border-radius: 10px;
   background-color: var(--primary-filler-color);
   color: var(--primary-text-color);
-  
+
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--primary-font);
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--primary-font);
 }
+
 h1 {
   margin-bottom: 40px;
-  }
+}
+
 h2 {
   margin-top: 30px;
   margin-bottom: 30px;
 }
 
-p, a {
-    font-family: var(--secondary-font);
+p,
+a {
+  font-family: var(--secondary-font);
 }
+
 a {
   color: var(--primary-text-color);
 }
+
 i {
   color: var(--button-text-color);
   font-size: 1.5rem;
 }
+
 .btn {
   background-color: var(--button-color);
   color: var(--button-text-color);
@@ -87,31 +102,36 @@ i {
 }
 
 /*Navbar styling*/
-nav{
+nav {
   padding: 0% !important;
 }
+
 .margin {
   background-color: var(--page-margin-color);
   color: var(--button-text-color);
   padding-left: 20px;
   padding-right: 20px;
- 
+
 }
+
 nav button {
   color: var(--button-text-color);
 }
 
-li a, .navbar-brand {
-  color:var(--button-text-color)!important;
+li a,
+.navbar-brand {
+  color: var(--button-text-color) !important;
 }
+
 .nav-link.active {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 /*News*/
 #parasee-carousel {
   border-radius: 10px 10px 0px 0px;
 }
+
 .card {
   border: none;
 }
@@ -122,64 +142,78 @@ li a, .navbar-brand {
   list-style-type: none;
   padding: 5px;
 }
+
 .season-buttons li a {
-  color: var(--primary-text-color)!important;
+  color: var(--primary-text-color) !important;
 }
 
 /*Carousel styling*/
 /*Credit: code for getting round edges on the carousel: (https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)*/
 .carousel {
-    border-radius: 10px 10px 10px 10px;
-        overflow: hidden;   
+  border-radius: 10px 10px 10px 10px;
+  overflow: hidden;
 }
 
 
 /*Cards styling*/
 .card-body {
-    min-width: 150px;
-    background-color: var(--primary-filler-color);
-    color: var(--primary-text-color);
-    row-gap: 0px;
-    border: none; 
+  min-width: 150px;
+  background-color: var(--primary-filler-color);
+  color: var(--primary-text-color);
+  row-gap: 0px;
+  border: none;
 }
+
 .card-text {
   margin-bottom: 0px;
 }
+
 .card-link {
   color: var(--primary-text-color);
 }
+
 .card-image-top {
   height: 65px;
 }
-.gallery_small, .first-card{
+
+.gallery_small,
+.first-card {
   padding-left: 0px !important;
 }
+
 /*Season 2 background*/
-.light-background, .light-background .card-body {
+.light-background,
+.light-background .card-body {
   background-color: var(--secondary-filler-color);
 }
+
 /*Form styling"*/
 
 input {
   width: 70%;
 }
+
 textarea {
   width: 100%;
 }
+
 /*Success styling*/
 
 .success-image {
   border-radius: 50px;
   overflow: hidden;
-  
+
 }
-.success h2, .success p, .success .btn {
+
+.success h2,
+.success p,
+.success .btn {
   margin-bottom: 40px;
 }
 
 
 /*Footer styling*/
-#follow-piggy  {
+#follow-piggy {
   font-size: 1.5rem;
   color: var(--button-text-color);
 }
@@ -190,6 +224,7 @@ li {
   list-style-type: none;
   padding: 5px;
 }
+
 #footer-title {
   margin-bottom: 0px;
   margin-right: 1rem;
@@ -198,30 +233,39 @@ li {
 
 /*Media queries*/
 @media screen and (min-width: 992px) {
+
   /*Descriptionsstyling*/
   .description {
     font-size: 1.25rem;
-  }  
+  }
+
   nav li {
     font-size: 1.25rem;
-  } 
+  }
 }
+
 @media screen and (min-width: 1200px) {
+
   /*Descriptions styling*/
   .description {
     font-size: 1.5rem;
-  } 
+  }
+
   nav li {
     font-size: 1.5rem;
-  } 
-  
+  }
+
 }
+
 @media screen and (min-width: 1400px) {
+
   /*Descriptions styling*/
-  #series-description, .description {
+  #series-description,
+  .description {
     font-size: 1.7rem;
-  }  
+  }
+
   nav li {
     font-size: 1.5rem;
-  } 
+  }
 }
