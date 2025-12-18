@@ -179,13 +179,12 @@ textarea {
 
 
 /*Footer styling*/
-#follow-piggy {
-  font-size: 1.25rem;
-  fon-color:var(--button-text-color);
+#follow-piggy  {
+  font-size: 1.5rem;
+  color: var(--button-text-color);
 }
-/*#follow-piggy div {
-  display: inline-block;
-}*/
+
+
 li {
   display: inline-block;
   list-style-type: none;
@@ -203,16 +202,26 @@ li {
   .description {
     font-size: 1.25rem;
   }  
+  nav li {
+    font-size: 1.25rem;
+  } 
 }
 @media screen and (min-width: 1200px) {
   /*Descriptions styling*/
   .description {
     font-size: 1.5rem;
-  }  
+  } 
+  nav li {
+    font-size: 1.5rem;
+  } 
+  
 }
 @media screen and (min-width: 1400px) {
   /*Descriptions styling*/
   #series-description, .description {
     font-size: 1.7rem;
   }  
+  nav li {
+    font-size: 1.5rem;
+  } 
 }
