@@ -179,13 +179,21 @@ textarea {
 
 
 /*Footer styling*/
-#follow-piggy div {
-  display: inline-block;
+#follow-piggy {
+  font-size: 1.25rem;
+  fon-color:var(--button-text-color);
 }
+/*#follow-piggy div {
+  display: inline-block;
+}*/
 li {
   display: inline-block;
   list-style-type: none;
   padding: 5px;
+}
+#footer-title {
+  margin-bottom: 0px;
+  margin-right: 1rem;
 }
 
 
