@@ -117,26 +117,53 @@ The bangers type was chosen for the titles, while risque will be used for the ma
 
 The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast while being gentle in the eye for users with light sensitivity.
 
+
+
+
 ![Piggy before the infection started Wikipedia|1902x1125,10%](/assets/images/readme-images/wiki-page.png)
-Capture of Piggy before the infection started Wikipedia.
+ ![SuperJakeJoseCat logo ](/assets/images/readme-images/SJJS.png)
 
-SuperJakeJoseCat's logo 
-![SuperJakeJoseCat logo ](/assets/images/readme-images/SJJS.png)
-
-\
-\
-\
 The colour palette chosen was:
 
 ![Colour palette](/assets/images/readme-images/colour-palette.png)
 
-\
-\
-\
+
 This is what the page will look like (measurements not to scale)
 
 ![Colour scheme for a page](/assets/images/readme-images/colour-scheme.png)
 
+## Features.
+
+All pages contain a responsive navigator with links to the home, episodes and contact pages. In small screens, the navigator collapses.
+
+![Navigator for large screens](/assets/images/readme-images/nav-large.jpg)
+![Navigator collapsed for small screens](/assets/images/readme-images/nav-small.jpg)
+![Navigator extended for small screens](/assets/images/readme-images/nav-small2.jpg)
+
+They also contain a footer with links to social media and to the other two pages.
+
+![Footer for large screens](/assets/images/readme-images/footer-large.jpg)
+![Footer for small screens](/assets/images/readme-images/footer-small.jpg)
+
+The home page contains a brief introduction to the series, a section with news about upcoming episodes and a section with links to other interesting websites dedicated to the series, namely the Wikipedia pages and Roblox game. Both the introduction and one of the news items contain a carousel of related images.
+
+![Home page for large screens](/assets/images/readme-images/home-large.jpg)
+![Home page for small screens](/assets/images/readme-images/home-small.jpg)
+
+The episodes page contains three sections each containing a brief explanation of the season with a caruosel of images, and a section containing links to each of the episodes in the season. In small screens, the last section converts to a horizontal scroll bar.
+
+![Episodes page for large screens](/assets/images/readme-images/episodes-large.jpg)
+![Episodes page for small screens](/assets/images/readme-images/episodes-small.jpg)
+
+The contact page contains fields for the user to introduce their name and e-mail address as well as an area where the user can write their message. On successful submission of the form, the user is directed to a feedback page.
+
+![Contact page for large screens](/assets/images/readme-images/contact-large.jpg)
+![Contact page for small screens](/assets/images/readme-images/contact-small.jpg)
+
+The feedback page contains thank you message.
+
+![Feedbak page for large screens](/assets/images/readme-images/success-large.jpg)
+![Feedback page for small screens](/assets/images/readme-images/success-small.jpg)
 
 
 
