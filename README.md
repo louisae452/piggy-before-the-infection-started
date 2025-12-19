@@ -202,7 +202,7 @@ To clone the project:
 
 ### Manual testing.
 
-Tests were performed in all the links in all the pages. Also, Form validation was tested in the contact pages. Two tests failed, when the links to both the large and small screen for season 3 episode 6 failed to open in a new window. This was fixed and re-tested.
+Tests were performed in all the links in all the pages. Also, form validation was tested in the contact pages. Two tests failed, when the links to both the large and small screen for season 3 episode 6 failed to open in a new window. This was fixed and re-tested.
 These are the logs of the manual tests performed:
 
 [Log of tests done to home page.](/assets/images/readme-images/test-home.pdf)
@@ -213,11 +213,53 @@ These are the logs of the manual tests performed:
 
 [Log of tests done to feedback page.](/assets/images/readme-images/test-success.pdf)
 
+### Validation.
+
+Validation for the HTML code was done using the [w3 HTML validator](https://validator.w3.org/#validate_by_upload).
+
+No errors were found.
+
+![Validation for index.html](/assets/images/readme-images/automated-tests/w3validator-index.jpg)
+![Validation for gallery.html](/assets/images/readme-images/automated-tests/w3validator-gallery.jpg)
+
+![Validation for conatact.html](/assets/images/readme-images/automated-tests/w3validator-contact.jpg)
+![Validation for success.html](/assets/images/readme-images/automated-tests/w3validator-success.jpg)
+
+Validation for the CSS code was done with the [w3 CSS validator](https://jigsaw.w3.org/css-validator/validator)
+
+No errors were found.
+
+![Validation for styles.css](/assets/images/readme-images/automated-tests/w3validator-styles.jpg)
+
+### Lighthouse.
+
+Lighthouse was run on all pages on Google Dev Tools. On the initial run, the performance score for the mobile pages was around 40% due to the size of the images. Following its recommendation, the images were reduced in size, which increased the performace on mobile to 53-62% but reduced the score for best practices in desktop as the image quality had been reduced. It was decided that, given the high volume of images on the site, a compromise had to be reached. As a future improvement to the site, responsive images could be added to the site.
+
+Scores for the home page on mobile and desktop.
+
+![lighthouse score for home page in mobile](/assets/images/readme-images/automated-tests/home-mobile.jpg)
+![Lighthouse score for home page in desktop](/assets/images/readme-images/automated-tests/home-desktop.jpg)
+
+Scores for the episodes page on mobile and desktop.
+
+![lighthouse score for episodes page in mobile](/assets/images/readme-images/automated-tests/gallery-mobile.jpg)
+![lighthouse score for episodes page in desktop](/assets/images/readme-images/automated-tests/gallery-desktop.jpg)
+
+Scores for  the contact page on mobile and desktop.
+
+![Lighthouse score for contact page in mobile](/assets/images/readme-images/automated-tests/contact-mobile.jpg)
+![Lighthouse score for contact page in desktop](/assets/images/readme-images/automated-tests/contact-desktop.jpg)
+
+Scores for the feedback page on mobile and desktop.
+
+![Lighthouse score for success page in mobile](/assets/images/readme-images/automated-tests/success-mobile.jpg)
+![lighthouse score for success page in desktop](/assets/images/readme-images/automated-tests/success-desktop.jpg)
 
 
-[w3 HTML](https://validator.w3.org/#validate_by_upload)
 
-[w3 CSS validator](https://jigsaw.w3.org/css-validator/validator)
+
+
+
 
 
 ## Credits.
