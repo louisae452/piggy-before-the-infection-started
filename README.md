@@ -165,6 +165,41 @@ The feedback page contains thank you message.
 ![Feedbak page for large screens](/assets/images/readme-images/success-large.jpg)
 ![Feedback page for small screens](/assets/images/readme-images/success-small.jpg)
 
+## Deployment.
+
+The project was deployed in GitHub.
+
+The process followed was:
+
+- On GitHub, navigate to the project page: https://github.com/louisae452/piggy-before-the-infection-started .
+- Go to settings.
+- On the general menu on the left, go to pages.
+- Select main branch and save.
+- To access the deployed site, click on the deployments section on the right side of the main project page.
+
+The site can be accessed from: https://louisae452.github.io/piggy-before-the-infection-started/
+
+### Local deployment.
+
+To fork the project:
+
+- On Github, mavigate to the project page: https://github.com/louisae452/piggy-before-the-infection-started .
+- Click on the fork icon.
+- Select new branch.
+- Give the branch a name and save.
+
+To clone the project:
+
+- On Github, navigate to the project page: https://github.com/louisae452/piggy-before-the-infection-started
+- Click on the code button.
+- Copy the address shown.
+- Open your code editor.
+- On the terminal, navigate to the desired directory.
+- Type 'git clone' and the address you copied.
+- Press enter.
+
+
+
 
 
 
