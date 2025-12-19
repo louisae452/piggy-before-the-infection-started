@@ -198,6 +198,23 @@ To clone the project:
 - Type 'git clone' and the address you copied.
 - Press enter.
 
+## Testing.
+
+### Manual testing.
+
+Tests were performed in all the links in all the pages. Also, Form validation was tested in the contact pages. Two tests failed, when the links to both the large and small screen for season 3 episode 6 failed to open in a new window. This was fixed and re-tested.
+These are the logs of the manual tests performed:
+
+[Log of tests done to home page.](/assets/images/readme-images/test-home.pdf)
+
+[Log of tests done to episodes page.](/assets/images/readme-images/test-gallery.pdf)
+
+[Log of tests done to contact page.](/assets/images/readme-images/test-contact.pdf)
+
+[Log of tests done to feedback page.](/assets/images/readme-images/test-success.pdf)
+
+
+
 
 
 
