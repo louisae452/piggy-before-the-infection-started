@@ -11,9 +11,45 @@ However, due to the amount of content that SuperJakeJoseCat has produced in thes
 
 With this in mind, it was decided that the scope of this project will be on providing a prototype of what will eventually become the website and its scope will be reduced to the first three seasons of the main Piggy before the infection started series.
 
+## Contents.
 
+1. [Business goals](#1-business-goals)
 
-## Business goals.
+2. [User needs](#2-user-needs)
+
+3. [User stories](#3-user-stories)
+
+4. [Design](#4-design)
+
+5. [Changes to the design](#5-changes-to-the-design)
+
+6. [Typography and colour scheme](#6-typography-and-colour-scheme)
+
+7. [Features](#7-features)
+
+8. [Deployment](#8-deployment)
+
+9. [Testing](#9-testing)
+
+     - [Manual testing](#manual-testing)
+
+     - [Bugs](#bugs)
+
+     - [User stories](#user-stories-1)
+
+     - [Validation](#validation)
+
+     - [Lighthouse](#lighthouse)
+
+ 10. [Languages used](#10-languages-used)
+
+ 11. [Frameworks, libraries and programs](#11-frameworks-libraries-and-programs)
+
+ 12. [Media](#12-media)
+
+ 13. [Acknowledgements](#13-acknowlegments)
+
+## 1. Business goals.
 
 - To increase visibility of the series and gain new viewers.
 - To make it easy for fans to navigate to the episode they desire.
@@ -22,14 +58,14 @@ With this in mind, it was decided that the scope of this project will be on prov
 - To have a platform from which to launch Piggy before the infection started spin offs.
 - To showcase animating skills for potential commissions.
 
-## User needs.
+## 2. User needs.
 
 - To be able to easily navigate to a specific episode.
 - To have a platform where they can follow the latest developments in the series.
 - To be able to get their opinions and questions to SuperJakeJoseCat.
 - To be able to contact SuperJakeJoseCat about his interest in collaborating in their projects.
 
-## User stories.
+## 3. User stories.
 
 - As the animator, 
 
@@ -50,7 +86,7 @@ With this in mind, it was decided that the scope of this project will be on prov
     - I want to be able to see SuperJakeJoseCat animations in an easy and organised way.
     - I would like a form to contact SuperJakeJoseCat where I can ask all the information I need.
 
-## Design.
+## 4. Design.
 
 The web page will consist of three pages. They will all be responsive to large, medium and small screen sizes.
 
@@ -83,7 +119,7 @@ The talk to the creator page will contain a form to enter name, e-mail address a
 
 [Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
 
-## Changes to the design.
+## 5. Changes to the design.
 
 ### Home page.
 
@@ -115,7 +151,7 @@ A  success page was created to be shown on successful submission of the form.
 INSERT WIREFRAME.
 
 
-## Typography and colour scheme.
+## 6. Typography and colour scheme.
 
 The bangers type was chosen for the titles, while risque will be used for the main text. Both fonts were obtained from [Google Fonts](https://fonts.google.com/).
 
@@ -136,7 +172,7 @@ This is what the page will look like (measurements not to scale)
 
 ![Colour scheme for a page](/assets/images/readme-images/colour-scheme.png)
 
-## Features.
+## 7. Features.
 
 All pages contain a responsive navigator with links to the home, episodes and contact pages. In small screens, the navigator collapses.
 
@@ -170,7 +206,7 @@ The feedback page contains a thank you message.
 ![Feedbak page for large screens](/assets/images/readme-images/success-large.jpg)
 ![Feedback page for small screens](/assets/images/readme-images/success-small.jpg)
 
-## Deployment.
+## 8. Deployment.
 
 The project was deployed in [GitHub](https://github.com/).
 
@@ -203,7 +239,7 @@ To clone the project:
 - Type 'git clone' followed by the address you copied.
 - Press enter.
 
-## Testing.
+## 9. Testing.
 
 ### Manual testing.
 
@@ -277,11 +313,11 @@ Scores for the feedback page on mobile and desktop.
 ![Lighthouse score for success page in mobile](/assets/images/readme-images/automated-tests/success-mobile.jpg)
 ![lighthouse score for success page in desktop](/assets/images/readme-images/automated-tests/success-desktop.jpg)
 
-## Languages used.
+## 10. Languages used.
 
 HTML, CSS.
 
-## Frameworks, libraries and programs.
+## 11. Frameworks, libraries and programs.
 
 [GitHub](https://github.com/).
 
@@ -315,11 +351,11 @@ To get round edges on the images of the carousel: [stack overflow](https://stack
 
 While woking on the initial stages of planning and design, the following  streaming platforms were visited: [BBC iplayer](https://www.bbc.co.uk/iplayer), [ITVX](https://www.itv.com/), [Channel 5](https://www.channel5.com/), [Netflix](https://www.netflix.com/gb/), [Prime video](https://www.amazon.co.uk/s/?ie=UTF8&keywords=primevideo&index=instant-video&tag=googhydr-21&ref=pd_sl_4qt8mi5j5m_b&adgrpid=122874515649&hvpone=&hvptwo=&hvadid=606073882920&hvpos=&hvnetw=g&hvrand=2693765614447736146&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046767&hvtargid=kwd-301037023401&hydadcr=28129_2308171&mcid=6ef92a59b27b3bc095f71f55f965df25&hvocijid=2693765614447736146--&hvexpln=0&gad_source=1).
 
-## Media.
+## 12. Media.
 
 All the content, images and videos used on the site were created by SuperJakeJoseCat.
 
-## Acknowlegments.
+## 13. Acknowlegments.
 
 I Would like to thank the following people:
 
