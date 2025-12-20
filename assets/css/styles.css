@@ -124,6 +124,7 @@ li a,
   color: var(--button-text-color) !important;
 }
 
+/* Credit to my tutor for fixing the navigator not showing the active page.*/
 .nav-link.active {
   text-decoration: underline;
 }

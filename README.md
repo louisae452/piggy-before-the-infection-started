@@ -11,6 +11,8 @@ However, due to the amount of content that SuperJakeJoseCat has produced in thes
 
 With this in mind, it was decided that the scope of this project will be on providing a prototype of what will eventually become the website and its scope will be reduced to the first three seasons of the main Piggy before the infection started series.
 
+
+
 ## Business goals.
 
 - To increase visibility of the series and gain new viewers.
@@ -56,7 +58,7 @@ All the pages will contain a navigation bar which link to each of the pages and 
 
 ### The home page.
 
-The home page will contain a brief introduction to the series, a section in which users can find out more about the series by going on to its Wikijpedia pages or play the associated Roblox game, a section to show the award nominations the series has received, a news section, and a section to go to the gallery or send a message to the creator.
+The home page will contain a brief introduction to the series, a section in which users can find out more about the series by going on to its Wikipedia pages or play the associated Roblox game, a section to show the award nominations the series has received, a news section, and a section to go to the gallery or send a message to the creator.
 
 [Wireframe for the large screen version of the home page.](assets/images/readme-images/home-wire-large.png)
 
@@ -99,11 +101,13 @@ For smaller screens, it was found that a vertical approach would make the page f
 
 The order of the elements inside the season description section were also swapped.
 
-In addition, it was decided that buttons to navigate to each of the seasons in the page would look too chunky, so they were transformed into more discreate links at the top and bottom of each of the season sections.
+In addition, it was decided that buttons to navigate to each of the seasons in the page would look too chunky, so they were transformed into more discrete links at the top and bottom of each of the page.
+
+The name of the page was also changed to 'Episodes' to make its contents easier to understand.
 
 INSERT NEW WIREFRAME
 
-All the pages got the addition of two buttoms at the end of the page to navigate to the other two pages easily.
+Links to the other two visible pages were also added to the footer.
 
 ### Success page.
 A  success page was created to be shown on successful submission of the form.
@@ -113,7 +117,7 @@ INSERT WIREFRAME.
 
 ## Typography and colour scheme.
 
-The bangers type was chosen for the titles, while risque will be used for the main text.
+The bangers type was chosen for the titles, while risque will be used for the main text. Both fonts were obtained from [Google Fonts](https://fonts.google.com/).
 
 The colour scheme was selected with purple as the main tone to keep in line with SuperJakeJoseCat’s branding, while the complementary forest green and mint green were chosen for the text in order to provide adequate contrast while being gentle in the eye for users with light sensitivity.
 
@@ -151,6 +155,7 @@ The home page contains a brief introduction to the series, a section with news a
 ![Home page for small screens](/assets/images/readme-images/home-small.jpg)
 
 The episodes page contains three sections each containing a brief explanation of the season with a caruosel of images, and a section containing links to each of the episodes in the season. In small screens, the last section converts to a horizontal scroll bar.
+At the top and bottom of the page there are links to navigate to each of the sessions.
 
 ![Episodes page for large screens](/assets/images/readme-images/episodes-large.jpg)
 ![Episodes page for small screens](/assets/images/readme-images/episodes-small.jpg)
@@ -160,14 +165,14 @@ The contact page contains fields for the user to introduce their name and e-mail
 ![Contact page for large screens](/assets/images/readme-images/contact-large.jpg)
 ![Contact page for small screens](/assets/images/readme-images/contact-small.jpg)
 
-The feedback page contains thank you message.
+The feedback page contains a thank you message.
 
 ![Feedbak page for large screens](/assets/images/readme-images/success-large.jpg)
 ![Feedback page for small screens](/assets/images/readme-images/success-small.jpg)
 
 ## Deployment.
 
-The project was deployed in GitHub.
+The project was deployed in [GitHub](https://github.com/).
 
 The process followed was:
 
@@ -195,7 +200,7 @@ To clone the project:
 - Copy the address shown.
 - Open your code editor.
 - On the terminal, navigate to the desired directory.
-- Type 'git clone' and the address you copied.
+- Type 'git clone' followed by the address you copied.
 - Press enter.
 
 ## Testing.
@@ -212,6 +217,23 @@ These are the logs of the manual tests performed:
 [Log of tests done to contact page.](/assets/images/readme-images/test-contact.pdf)
 
 [Log of tests done to feedback page.](/assets/images/readme-images/test-success.pdf)
+
+### Bugs.
+
+- Early on the development, it was found that the navigator had stopped underlining the active page. Eventually, it was found that the use of !important while setting the colour of the text in the navigator had overriden the text decoration. A new text decoration rule had to be written to overcome this problem. (Credit to my tutor).
+
+- The carousel in the episodes page was showing the first picture twice. It was found that, when adding cards to the carousel, the active card had been used to be copied over a number of times so that several cards were set to active at the same time. Once this was corrected, the carousel worked as expected. (Again, credit to my tutor)
+
+### User stories.
+
+- From the animator's point of view, the site provides  a platform to show the series were both fans and prospective clients can easily browse through their work.
+
+- New users can find the information they need to get to know the series. They can view the different episodes in the episodes page and they can access the series Wikipedia to find more information and play the Roblox game from the home page.
+
+- Fans can easily access their favoutite episodes. They can also make sure they don't miss any upcoming events in the news section in the home page. They also have an easy way to message the creator from the contact page.
+
+- Prospective clients can easily review SuperJakeJoseCat's work and message him if needed.
+
 
 ### Validation.
 
@@ -255,35 +277,75 @@ Scores for the feedback page on mobile and desktop.
 ![Lighthouse score for success page in mobile](/assets/images/readme-images/automated-tests/success-mobile.jpg)
 ![lighthouse score for success page in desktop](/assets/images/readme-images/automated-tests/success-desktop.jpg)
 
+## Languages used.
 
+HTML, CSS.
 
+## Frameworks, libraries and programs.
 
+[GitHub](https://github.com/).
 
+[Bootstrap v 5.3](https://getbootstrap.com/).
 
+To make favicon: [favicon.io](https://favicon.io/).
 
+To make logo: [Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB).
 
-## Credits.
-[w3schools](https://www.w3schools.com/)
+To find the correct purple colour (From wikipedia image): [Image color picker](https://imagecolorpicker.com/).
 
-Readme file: [Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links)
+To choose colours for the colour palette: [Canva](https://www.canva.com/colors/color-wheel/).
 
-To find the correct purple colour (From wikipedia image): [Image color picker](https://imagecolorpicker.com/)
+To choose fonts: [Google Fonts](https://fonts.google.com/).
 
-To choose colours for the colour palette: [Canva](https://www.canva.com/colors/color-wheel/)
-
-To choose fonts: [Google fonts](https://fonts.google.com/)
-
-To make logo: [Adobe converter](https://www.adobe.com/express/feature/image/convert/svg?mv=search&mv2=paidsearch&sdid=SGDJM6ML&ef_id=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB:G:s&s_kwcid=AL!3085!3!761188290457!b!!g!!!22715185416!187202596488&gad_source=1&gad_campaignid=22715185416&gbraid=0AAAAADraYsI-nxMEG6yyI05o5YKLar7nv&gclid=Cj0KCQiArt_JBhCTARIsADQZayn4D9tYeU0TeGOOGjxEMTT5AJ9WFg_qnTrQjpdmYaL7geI1eEu6ER4aAnBcEALw_wcB)
-
-To make favicon: [favicon.io](https://favicon.io/)
-Icons: [Font Awesome](https://fontawesome.com/)
-
-Bootstrap horizontal scroll cards [codeply](https://www.codeply.com/go/PF4APyGj7F)
-
-To get round edges on the images of the carousel: [stack overflow](https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap)
+To choose icons: [Font Awesome](https://fontawesome.com/).
 
 To manipulate pictures: Microsoft photos.
-To convert pictures:[Towebp](https://towebp.io/)
+
+To convert pictures: [Towebp](https://towebp.io/).
+
+To write the readme file: [Markdown Guide: Basic Syntax.](https://www.markdownguide.org/basic-syntax/#links).
+
+To test the site: Google Dev Tools.
+
+For general information: [w3schools](https://www.w3schools.com/).
+
+Bootstrap horizontal scroll cards: [codeply](https://www.codeply.com/go/PF4APyGj7F).
+
+To get round edges on the images of the carousel: [stack overflow](https://stackoverflow.com/questions/60680676/how-can-i-use-rounded-images-in-carousel-bootstrap).
+
+While woking on the initial stages of planning and design, the following  streaming platforms were visited: [BBC iplayer](https://www.bbc.co.uk/iplayer), [ITVX](https://www.itv.com/), [Channel 5](https://www.channel5.com/), [Netflix](https://www.netflix.com/gb/), [Prime video](https://www.amazon.co.uk/s/?ie=UTF8&keywords=primevideo&index=instant-video&tag=googhydr-21&ref=pd_sl_4qt8mi5j5m_b&adgrpid=122874515649&hvpone=&hvptwo=&hvadid=606073882920&hvpos=&hvnetw=g&hvrand=2693765614447736146&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046767&hvtargid=kwd-301037023401&hydadcr=28129_2308171&mcid=6ef92a59b27b3bc095f71f55f965df25&hvocijid=2693765614447736146--&hvexpln=0&gad_source=1).
+
+## Media.
+
+All the content, images and videos used on the site were created by SuperJakeJoseCat.
+
+## Acknowlegments.
+
+I Would like to thank the following people:
+
+My tutor, Kevin Loughrey for his help and encouragement through the development of the project.
+
+My friend and colleague Veronica Teodorof for being a step ahead of me and sharing the tips she found on her journey.
+
+To my family for their unconditional support. 
+
+Very special thanks to SuperJakeJoseCat whithout whom this project would not have been possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
