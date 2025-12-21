@@ -96,10 +96,7 @@ All the pages will contain a navigation bar which link to each of the pages and 
 
 The home page will contain a brief introduction to the series, a section in which users can find out more about the series by going on to its Wikipedia pages or play the associated Roblox game, a section to show the award nominations the series has received, a news section, and a section to go to the gallery or send a message to the creator.
 
-[Wireframe for the large screen version of the home page.](assets/images/readme-images/home-wire-large.png)
-
-[Wireframe for the medium and small screen versions of the home page.](assets/images/readme-images/home-wire-small.png)
-
+[Wireframe for the home page.](assets/images/readme-images/wireframes/home-wireframe.jpg)
 
 ### The gallery.
 
@@ -107,27 +104,25 @@ The gallery will contain the links to all the episodes in the series. It will ha
 
 The page will finish with a link to send a message to SuperJakeJoseCat.
 
-[Wireframe for the large screen version of the gallery.](assets/images/readme-images/gallery-wire-large.png)
-
-[Wireframe for the medium and small screen versions of the gallery.](assets/images/readme-images/gallery-wire-small.png)
+[Wireframe for the gallery.](assets/images/readme-images/wireframes/gallery-wireframe.jpg)
 
 ### The ‘Talk to the creator’ page.
 
 The talk to the creator page will contain a form to enter name, e-mail address and message area as well as a submit button. It will also have a link to the gallery.
 
-[Wireframe for the large screen version of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-large.png)
-
-[Wireframe for the small and medium screen versions of the ‘Talk to the creator’ page.](assets/images/readme-images/form-wire-small.png)
+[Wireframe for the Talk to the creator page](/assets/images/readme-images/wireframes/contact-wireframe.jpg)
 
 ## 5. Changes to the design.
 
 ### Home page.
 
-The original layout for medium screens for the description of the series was the similar as that for small screens. It was found that the layout adopted for larger screens was more adequate.
+The original layout for medium screens for the description of the series was similar as that for small screens. It was found that the layout adopted for larger screens was more adequate.
 
 The order of the elements in the series description section were swapped around to make it more appealing in small screens (so that the series carousel did not appear directtly on top of the news pictures.)
 
-INSERT NEW WIREFRAME
+The original image for the description was substituted with a carousel of images from the series.
+
+[New wireframe for the home page](/assets/images/readme-images/wireframes/home-wireframe-new.jpg)
 
 ### Gallery page.
 
@@ -141,15 +136,14 @@ In addition, it was decided that buttons to navigate to each of the seasons in t
 
 The name of the page was also changed to 'Episodes' to make its contents easier to understand.
 
-INSERT NEW WIREFRAME
+[New wireframe for the episodes page](/assets/images/readme-images/wireframes/episodes-wireframe-new.jpg)
 
 Links to the other two visible pages were also added to the footer.
 
 ### Success page.
 A  success page was created to be shown on successful submission of the form.
 
-INSERT WIREFRAME.
-
+[Wireframe for the feedback page](/assets/images/readme-images/wireframes/success-wireframe-new.jpg)
 
 ## 6. Typography and colour scheme.
 
