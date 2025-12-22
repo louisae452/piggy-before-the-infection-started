@@ -35,7 +35,7 @@ With this in mind, it was decided that the scope of this project will be on prov
 
      - [Bugs](#bugs)
 
-     - [User stories](#user-stories-1)
+     - [User stories](#user-stories)
 
      - [Validation](#validation)
 
@@ -69,22 +69,22 @@ With this in mind, it was decided that the scope of this project will be on prov
 
 - As the animator, 
 
-    - I want a platform which shows all that the series can offer. 
+    - I want a platform which shows all that the series can offer so that my fans are up to date with new developments. 
     - I want to be able to showcase my series so that prospective clients can see my work before they give me a commission. 
 
 - As a new user, 
 
-    - I want clear information about the series.
+    - I want clear information about the series so that I know what the series has to offer.
 
 - As a fan, 
 
-    - I want to be able to easily find my favourite episode.
+    - I want to be able to easily find my favourite episode so that I do not have to waste time searching through lots of other videos.
     - I want to be able to get all the news as quick as possible so I don’t miss any upcoming events/ premieres.
-    - I want to be able to send messages to SuperJakeJoseCat.
+    - I want to be able to send messages to SuperJakeJoseCat so that I can feel my opinions are valued by the creator.
 
 - As a prospective client, 
-    - I want to be able to see SuperJakeJoseCat animations in an easy and organised way.
-    - I would like a form to contact SuperJakeJoseCat where I can ask all the information I need.
+    - I want to be able to see SuperJakeJoseCat's animations in an easy and organised way so that I know what he could do for my business.
+    - I would like a form to contact SuperJakeJoseCat so that I can ask all the information I need.
 
 ## 4. Design.
 
