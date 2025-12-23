@@ -1,19 +1,6 @@
 /* Bangers and Risque fonts (Google fonts)*/
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Risque&display=swap');
 
-/* Risque class
-.risque-regular {
-  font-family: "Risque", serif;
-  font-weight: 400;
-  font-style: normal;
-}*/
-/* Bangers class
-.bangers-regular {
-  font-family: "Bangers", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-*/
 /* CSS variables*/
 :root {
   --primary-font: "Bangers", system-ui;
@@ -27,16 +14,8 @@
 
 }
 
-
 /* global styles*/
-/*main {
-    
-    border: 20px solid var(--page-margin-color);
-    
-    background-color: var(--primary-filler-color);
-    color: var(--primary-text-color);
-    padding: 10px;
-}*/
+
 body {
   background-color: var(--page-margin-color);
 }
@@ -46,7 +25,6 @@ header {
   height: 200px;
 
 }
-
 
 .outer-container {
   background-color: var(--page-margin-color);
